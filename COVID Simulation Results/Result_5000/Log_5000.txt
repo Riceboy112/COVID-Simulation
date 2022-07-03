@@ -1,0 +1,323 @@
+----------------------------------------
+Here's the Input Data:
+----------------------------------------
+Total population number: 5000
+Horizontal length: 100
+Vertical length: 70
+Total space is: 7000 feet squared.
+Max distance (in feet) required for contamination: 4.0
+----------------------------------------
+Day: 0
+----------------------------------------
+Not Infected    4999
+Infected           1
+Hospitalized       0
+Cured              0
+Dead               0
+Name: 0, dtype: int64
+----------------------------------------
+Day: 1
+----------------------------------------
+Not Infected    4964.0
+Infected          36.0
+Hospitalized       0.0
+Cured              0.0
+Dead               0.0
+Name: 1, dtype: float64
+----------------------------------------
+Day: 2
+----------------------------------------
+Not Infected    4860.0
+Infected         139.0
+Hospitalized       1.0
+Cured              0.0
+Dead               0.0
+Name: 2, dtype: float64
+----------------------------------------
+Day: 3
+----------------------------------------
+Not Infected    4670.0
+Infected         325.0
+Hospitalized       5.0
+Cured              0.0
+Dead               0.0
+Name: 3, dtype: float64
+----------------------------------------
+Day: 4
+----------------------------------------
+Not Infected    4421.0
+Infected         564.0
+Hospitalized      14.0
+Cured              0.0
+Dead               1.0
+Name: 4, dtype: float64
+----------------------------------------
+Day: 5
+----------------------------------------
+Not Infected    4017.0
+Infected         950.0
+Hospitalized      30.0
+Cured              0.0
+Dead               3.0
+Name: 5, dtype: float64
+----------------------------------------
+Day: 6
+----------------------------------------
+Not Infected    3352.0
+Infected        1583.0
+Hospitalized      58.0
+Cured              0.0
+Dead               7.0
+Name: 6, dtype: float64
+----------------------------------------
+Day: 7
+----------------------------------------
+Not Infected    2526.0
+Infected        2354.0
+Hospitalized     105.0
+Cured              0.0
+Dead              15.0
+Name: 7, dtype: float64
+----------------------------------------
+Day: 8
+----------------------------------------
+Not Infected    1607.0
+Infected        3191.0
+Hospitalized     175.0
+Cured              0.0
+Dead              27.0
+Name: 8, dtype: float64
+----------------------------------------
+Day: 9
+----------------------------------------
+Not Infected     694.0
+Infected        3993.0
+Hospitalized     270.0
+Cured              0.0
+Dead              43.0
+Name: 9, dtype: float64
+----------------------------------------
+Day: 10
+----------------------------------------
+Not Infected     239.0
+Infected        4308.0
+Hospitalized     389.0
+Cured              0.0
+Dead              64.0
+Name: 10, dtype: float64
+----------------------------------------
+Day: 11
+----------------------------------------
+Not Infected      49.0
+Infected        4346.0
+Hospitalized     517.0
+Cured              1.0
+Dead              87.0
+Name: 11, dtype: float64
+----------------------------------------
+Day: 12
+----------------------------------------
+Not Infected       3.0
+Infected        4213.0
+Hospitalized     646.0
+Cured             27.0
+Dead             111.0
+Name: 12, dtype: float64
+----------------------------------------
+Day: 13
+----------------------------------------
+Not Infected       0.0
+Infected        3996.0
+Hospitalized     771.0
+Cured             98.0
+Dead             135.0
+Name: 13, dtype: float64
+----------------------------------------
+Day: 14
+----------------------------------------
+Not Infected       0.0
+Infected        3727.0
+Hospitalized     890.0
+Cured            225.0
+Dead             158.0
+Name: 14, dtype: float64
+----------------------------------------
+Day: 15
+----------------------------------------
+Not Infected       0.0
+Infected        3424.0
+Hospitalized    1001.0
+Cured            394.0
+Dead             181.0
+Name: 15, dtype: float64
+----------------------------------------
+Day: 16
+----------------------------------------
+Not Infected       0.0
+Infected        3018.0
+Hospitalized    1103.0
+Cured            676.0
+Dead             203.0
+Name: 16, dtype: float64
+----------------------------------------
+Day: 17
+----------------------------------------
+Not Infected       0.0
+Infected        2467.0
+Hospitalized    1192.0
+Cured           1118.0
+Dead             223.0
+Name: 17, dtype: float64
+----------------------------------------
+Day: 18
+----------------------------------------
+Not Infected       0.0
+Infected        1834.0
+Hospitalized    1265.0
+Cured           1660.0
+Dead             241.0
+Name: 18, dtype: float64
+----------------------------------------
+Day: 19
+----------------------------------------
+Not Infected       0.0
+Infected        1144.0
+Hospitalized    1319.0
+Cured           2281.0
+Dead             256.0
+Name: 19, dtype: float64
+----------------------------------------
+Day: 20
+----------------------------------------
+Not Infected       0.0
+Infected         485.0
+Hospitalized    1352.0
+Cured           2895.0
+Dead             268.0
+Name: 20, dtype: float64
+----------------------------------------
+Day: 21
+----------------------------------------
+Not Infected       0.0
+Infected         165.0
+Hospitalized    1366.0
+Cured           3192.0
+Dead             277.0
+Name: 21, dtype: float64
+----------------------------------------
+Day: 22
+----------------------------------------
+Not Infected       0.0
+Infected          39.0
+Hospitalized    1370.0
+Cured           3307.0
+Dead             284.0
+Name: 22, dtype: float64
+----------------------------------------
+Day: 23
+----------------------------------------
+Not Infected       0.0
+Infected           1.0
+Hospitalized    1364.0
+Cured           3344.0
+Dead             291.0
+Name: 23, dtype: float64
+----------------------------------------
+Day: 24
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized    1333.0
+Cured           3376.0
+Dead             291.0
+Name: 24, dtype: float64
+----------------------------------------
+Day: 25
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized    1278.0
+Cured           3431.0
+Dead             291.0
+Name: 25, dtype: float64
+----------------------------------------
+Day: 26
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized    1213.0
+Cured           3496.0
+Dead             291.0
+Name: 26, dtype: float64
+----------------------------------------
+Day: 27
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized    1104.0
+Cured           3605.0
+Dead             291.0
+Name: 27, dtype: float64
+----------------------------------------
+Day: 28
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized     914.0
+Cured           3795.0
+Dead             291.0
+Name: 28, dtype: float64
+----------------------------------------
+Day: 29
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized     681.0
+Cured           4028.0
+Dead             291.0
+Name: 29, dtype: float64
+----------------------------------------
+Day: 30
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized     426.0
+Cured           4283.0
+Dead             291.0
+Name: 30, dtype: float64
+----------------------------------------
+Day: 31
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized     182.0
+Cured           4527.0
+Dead             291.0
+Name: 31, dtype: float64
+----------------------------------------
+Day: 32
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized      60.0
+Cured           4649.0
+Dead             291.0
+Name: 32, dtype: float64
+----------------------------------------
+Day: 33
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized       8.0
+Cured           4701.0
+Dead             291.0
+Name: 33, dtype: float64
+----------------------------------------
+Day: 34
+----------------------------------------
+Not Infected       0.0
+Infected           0.0
+Hospitalized       0.0
+Cured           4709.0
+Dead             291.0
+Name: 34, dtype: float64
